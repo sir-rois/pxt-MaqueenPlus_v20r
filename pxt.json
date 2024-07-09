@@ -1,6 +1,6 @@
 {
     "name": "maqueenPlusV2r",
-    "version": "2.2.1",
+    "version": "2.2.2",
     "description": "Последняя версия Maqueen Plus, программируемого робота для STEAM education",
     "license": "MIT",
     "dependencies": {
