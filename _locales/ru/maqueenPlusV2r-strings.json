@@ -18,7 +18,7 @@
   "maqueenPlusV2r.controlMotorStop|block": "останови %emotor",
   "maqueenPlusV2r.setBrightness|block": "сделай яркость подсветки %brightness",
   "maqueenPlusV2r.showColor|block": "включи %rgb цвет подсветки",
-  "maqueenPlusV2r.setIndexColor|block": "включи %rgb цвет для лампы подсветки %index",
+  "maqueenPlusV2r.setIndexColor|block": "включи |%rgb цвет для лампы подсветки |%index",
   "maqueenPlusV2r.ledRange|block": "лампы подсветки от %from до %to",
   "maqueenPlusV2r.rgb|block": "красный %r зеленый %g синий %b",
   "maqueenPlusV2r.ledRainbow|block": "включи на подсветке разные цвета от %startHue до %endHue",
