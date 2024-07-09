@@ -23,7 +23,7 @@
   "maqueenPlusV2r.rgb|block": "красный %r зеленый %g синий %b",
   "maqueenPlusV2r.ledRainbow|block": "включи на подсветке разные цвета от %startHue до %endHue",
   "maqueenPlusV2r.ledBlank|block": "выключи подсветку",
-  "maqueenPlusV2r.I2CInit|block": "разбуди Maqueen+",
+  "maqueenPlusV2r.I2CInit|block": "разбуди Maqueen Plus",
   "maqueenPlusV2r.NeoPixelColors.Red|block": "красный",
   "maqueenPlusV2r.NeoPixelColors.Orange|block": "жёлтый",
   "maqueenPlusV2r.NeoPixelColors.Yellow|block": "лимонный",
